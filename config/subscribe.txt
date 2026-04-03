@@ -3,9 +3,16 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+http://129.211.14.102:50085/sub?tv.sohu.blog=m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/iptv.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 
-
-
+# https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/main/iptv.m3u
+# https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/myMIGU/main/migu.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
