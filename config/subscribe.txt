@@ -12,6 +12,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.
 https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/main/iptv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/mytv-android/myMIGU/main/migu.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
