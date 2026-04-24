@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-10 16:29:50,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-25 02:16:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -124,6 +124,7 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=202604100000144858313519374073bddfdec3564df0a7&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260410000014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=43.139.160.244&SecurityKey=20260410000014&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=20c1a5de0a227c586f94f08859f112d5&ddCalcu=52d0e2c11141a0f59d5e808a02f2479cf568
 重温经典,http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=2026041002002074a794c015bb466895f124145399f041&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260410020020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=43.139.160.244&SecurityKey=20260410020020&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f93bc5672d1c621c6884dcffdff11c6d&ddCalcu=df69ec311b41c0f5f6d7f2fdc1dc4682816c
+重温经典,http://cdn6.163189.xyz/163189/cwjd
 金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8
