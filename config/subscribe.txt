@@ -30,23 +30,13 @@ https://gh-proxy.org/https://raw.githubusercontent.com/0610840119/iptv-api/maste
 https://gh-proxy.org/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt
-
-
-
 https://live.zhoujie218.top/tv/iptv4.txt
 https://t.freetv.fun/m3u/playlist.txt
 https://t.freetv.fun/m3u/hong_kong.txt
-https://tv.850930.xyz/kdsb.txt
 https://live.zbds.org/tv/iptv4.txt
 https://iptv.zsdc.eu.org/home/iptv.m3u8
 https://freetv.fun/test_channels_original_new.txt
 https://iptv-org.github.io/iptv/languages/zho.m3u
-https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt
-https://fm1077.serv00.net/SmartTV.m3u
-https://m3u.ibert.me/txt/fmml_ipv6.txt
-https://m3u.ibert.me/txt/ycl_iptv.txt
-https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
-http://tot.totalh.net/tttt.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
