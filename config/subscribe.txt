@@ -12,14 +12,10 @@ https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.
 https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/main/live_lite.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-
 https://gh-proxy.com/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/cyalias/mytvs-github/main/mytv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
-
 https://gh-proxy.com/https://raw.githubusercontent.com/onlylove2023/iptv/main/IPTV.m3u
-
-
 https://gh-proxy.com/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/main/iptv.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV/master/output/ipv4/result.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/zhi35/iptv/master/iptv.m3u
