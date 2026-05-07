@@ -23,7 +23,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/iptv-api-cctv/maste
 https://gh-proxy.com/https://raw.githubusercontent.com/0610840119/iptv-api/master/output/xp_result.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt
 https://live.zhoujie218.top/tv/iptv4.txt
 https://t.freetv.fun/m3u/playlist.txt
 https://t.freetv.fun/m3u/hong_kong.txt
