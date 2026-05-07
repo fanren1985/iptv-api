@@ -24,12 +24,9 @@ https://gh-proxy.com/https://raw.githubusercontent.com/0610840119/iptv-api/maste
 https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
 https://live.zhoujie218.top/tv/iptv4.txt
-https://t.freetv.fun/m3u/playlist.txt
 https://t.freetv.fun/m3u/hong_kong.txt
 https://live.zbds.org/tv/iptv4.txt
 https://iptv.zsdc.eu.org/home/iptv.m3u8
-https://freetv.fun/test_channels_original_new.txt
-https://iptv-org.github.io/iptv/languages/zho.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
