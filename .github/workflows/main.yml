@@ -11,8 +11,8 @@ name: 'Update schedule'
 
 on:
   workflow_dispatch:
-#  schedule:
-#    - cron: '30 19 14 * *'   # 北京时间每月15号的凌晨03:30 = UTC 14号 19:30
+  schedule:
+    - cron: '30 19 14 * *'   # 北京时间每月15号的凌晨03:30 = UTC 14号 19:30
 
 jobs:
   push:
