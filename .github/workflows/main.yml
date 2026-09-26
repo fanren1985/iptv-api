@@ -12,7 +12,7 @@ permissions:
   contents: write   # 授予内容读写权限
 on:
   schedule:
-    - cron: '0 22,10 * * *'
+    - cron: '45 19 * * 4'   # 北京时间每周五凌晨 3:45 = UTC 周四 19:45
   workflow_dispatch:
     branches:
       - master
