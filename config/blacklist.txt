@@ -2,5 +2,7 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+catvod
+207.56.13.146
 live.264788.xyz
 ali-m-l.cztv.com
