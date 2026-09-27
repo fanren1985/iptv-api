@@ -17,8 +17,6 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-CCTV-4K
-CCTV-8K
 
 📡卫视频道,#genre#
 五星体育
