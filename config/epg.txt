@@ -4,3 +4,5 @@
 https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/epg.xml
 https://gh-proxy.com/https://raw.githubusercontent.com/taksssss/tv/main/epg/51zmt.xml
 https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/master/pl.xml.gz
+https://gh-proxy.com/https://raw.githubusercontent.com/globetvapp/epg/main/China/china1.xml
+https://gh-proxy.com/https://raw.githubusercontent.com/globetvapp/epg/main/China/china2.xml
