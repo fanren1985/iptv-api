@@ -6,3 +6,4 @@ https://gh-proxy.com/https://raw.githubusercontent.com/taksssss/tv/main/epg/51zm
 https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/master/pl.xml.gz
 https://gh-proxy.com/https://raw.githubusercontent.com/globetvapp/epg/main/China/china1.xml
 https://gh-proxy.com/https://raw.githubusercontent.com/globetvapp/epg/main/China/china2.xml
+https://gh-proxy.com/https://raw.githubusercontent.com/zzq1234567890/epg/main/epgnew.xml.gz
