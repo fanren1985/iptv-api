@@ -2,3 +2,4 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 
 https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/epg.xml
+https://gh-proxy.com/https://raw.githubusercontent.com/taksssss/tv/main/epg/51zmt.xml
