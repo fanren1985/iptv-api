@@ -14,10 +14,6 @@ on:
   schedule:
     - cron: '45 17 * * 4'   # UTC 周四 17:45 = 北京时间周五 01:45
   workflow_dispatch:
-    branches:
-      - master
-      - dev
-      - gd
 
 jobs:
   push:
