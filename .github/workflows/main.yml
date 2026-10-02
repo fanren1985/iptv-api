@@ -8,12 +8,14 @@ name: 'Update schedule'
 # Forks may multiply scheduled runs and GitHub Actions resource usage is near limits.
 # Many scheduled workflows from forks can cause workflows to be disabled.
 # If scheduled execution is required, use other deployment methods.
-permissions:
-  contents: write   # 授予内容读写权限
+
 on:
+  workflow_dispatch:
   schedule:
     - cron: '45 17 * * 4'   # UTC 周四 17:45 = 北京时间周五 01:45
-  workflow_dispatch:
+    
+permissions:
+  contents: write   # 授予内容读写权限
 
 jobs:
   push:
