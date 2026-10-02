@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write   # 授予内容读写权限
 
+concurrency:
+  group: update-schedule-${{ github.repository }}
+  cancel-in-progress: false
+
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
@@ -31,7 +35,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Install pipenv
         run: pip3 install --user pipenv
-      - name: Install dependecies
+      - name: Install dependencies
         run: pipenv --python 3.14 && pipenv install --deploy
       - name: Update
         run: pipenv run dev
